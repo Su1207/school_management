@@ -5,6 +5,12 @@ The app allows users to **add schools** with details and images, and then **view
 
 ---
 
+<img width="1908" height="875" alt="image" src="https://github.com/user-attachments/assets/3d1ee08d-e89f-494d-b628-20838900d2d4" />
+
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/75dbf677-1a6f-4a50-8a77-5e0e825d7ef1" />
+
+
 ## 🚀 Features
 
 - ➕ **Add School**: Submit school details with validation using `react-hook-form`
@@ -20,7 +26,8 @@ The app allows users to **add schools** with details and images, and then **view
 
 ## 📂 Project Structure
 
-school-management/
+```plaintext
+school-management/  
 ├── app/
 │ ├── addSchool/ # Page to add school
 │ │ └── page.tsx
@@ -39,6 +46,7 @@ school-management/
 ├── .env.local # Environment variables (ignored in git)
 ├── package.json
 └── README.md
+```
 
 ---
 
